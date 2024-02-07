@@ -1,0 +1,6 @@
+@WebApplication1_HostAddress = http://localhost:5193
+
+GET {{WebApplication1_HostAddress}}/FoodDelivery/
+Accept: application/json
+
+###
